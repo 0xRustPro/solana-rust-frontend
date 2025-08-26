@@ -2,7 +2,7 @@
 This is a Smart Contract to connect with Solana using Rust, more specifically [Dioxus](https://dioxuslabs.com/).
 
 ## Prerequisites
-1. This project uses [Axum](https://docs.rs/axum/latest/axum/) webserver which is a separate project written in Rust. see [here](https://github.com/bunnyBites/solana-rust-axum-backend) to know more. You might also check its [readme](https://github.com/bunnyBites/solana-rust-axum-backend/blob/main/README.md) section to know what details you need to provide to run your back-end server.
+1. This project uses [Axum](https://docs.rs/axum/latest/axum/) webserver which is a separate project written in Rust. see [here](https://github.com/0xRustPro/solana-rust-axum-backend) to know more. You might also check its [readme](https://github.com/0xRustPro/solana-rust-axum-backend/blob/main/README.md) section to know what details you need to provide to run your back-end server.
 
 2. Phantom wallet - we will be using Devnet to test our program. You can also modify the code from the web server repo if you want to work with other environments. Check [here](https://www.soldev.app/course/interact-with-wallets) to learn more about how to configure Phantom to your browser and how to interact with it.
 
